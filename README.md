@@ -12,6 +12,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
+<p align="center">
+  <a href="https://kanishkcodes.dev" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=450&lines=🌐+Visit+My+Portfolio+→;💻+kanishkcodes.dev;🚀+Explore+My+Projects" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
