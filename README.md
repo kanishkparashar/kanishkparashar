@@ -18,6 +18,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://kanishkcodes.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-kanishkcodes.dev-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
